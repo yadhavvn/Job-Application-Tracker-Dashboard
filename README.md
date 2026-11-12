@@ -12,6 +12,10 @@ An interactive Excel dashboard designed to track and analyse job applications, m
 - One-click full-screen toggle
 - Automated zoom-to-fit screen display
 
+## Dashboard Preview
+
+![Dashboard](Screenshots/dashboard.png)
+
 ## Tools & Technologies
 - Microsoft Excel
 - Pivot Tables
