@@ -14,7 +14,7 @@ An interactive Excel dashboard designed to track and analyse job applications, m
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Job_dashboard_img.png)
 
 ## Tools & Technologies
 - Microsoft Excel
